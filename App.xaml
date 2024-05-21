@@ -1,0 +1,9 @@
+﻿<Application x:Class="MediCore.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:MediCore"
+             StartupUri="Views/Login_Screen.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
